@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /azure
+
+adls:
+  account-name: consistentlearners
+  account-key: C5illoy8tbjsmZk/USOspDvgqD3Qq9s1qTwH+zKS5dIKCvox4IQ3tM5XRuuv67BJ9lGwQGNWLX49oaJO2rhx5Q==
+  container-name: consistency
